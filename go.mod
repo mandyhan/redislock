@@ -1,4 +1,4 @@
-module github.com/jefferyjob/go-redislock
+module github.com/mandyhan/redislock
 
 go 1.18
 
